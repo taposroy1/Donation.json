@@ -8,7 +8,8 @@
       "secondary_color": "#0052ff26",
       "tertiary_color": "#0052FF",
       "description": "Access to quality healthcare is essential for the well-being of all individuals. Governments can play a crucial role by investing in healthcare infrastructure, ensuring that medical services are affordable and accessible to everyone. Promoting health education and preventive measures is equally important. Families can contribute by adopting healthy lifestyles and encouraging regular check-ups. Healthcare professionals can create a compassionate and knowledgeable healthcare environment, focusing on patient well-being and preventive care to help individuals lead healthier lives.",
-      "price": 290
+      "price": 290,
+      "gol":1200
     },
     {
       "id": 2,
